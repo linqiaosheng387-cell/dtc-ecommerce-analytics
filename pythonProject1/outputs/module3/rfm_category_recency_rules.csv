@@ -1,0 +1,7 @@
+﻿category,cycle_label,r5_max_days,r4_max_days,r3_max_days,r2_max_days,r1_definition
+beauty,short_consumption_cycle,45,90,150,240,>240 days
+fashion,seasonal_cycle,60,120,210,300,>300 days
+sports,medium_replacement_cycle,90,180,300,450,>450 days
+home,long_replacement_cycle,120,240,365,540,>540 days
+electronics,very_long_replacement_cycle,180,365,540,720,>720 days
+unknown,default_medium_cycle,90,180,300,450,>450 days

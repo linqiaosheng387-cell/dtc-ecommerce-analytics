@@ -1,0 +1,38 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotly>=5.10.0
+
+# Statistical Analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+lightgbm>=3.3.0
+
+# Customer Lifetime Value Modeling
+lifetimes>=0.11.3
+
+# Time Series Forecasting
+prophet>=1.1
+pmdarima>=2.0.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Utilities
+tqdm>=4.64.0
+faker>=15.0.0
+
+# Data Quality
+missingno>=0.5.0
+
+# Export & Reporting
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0

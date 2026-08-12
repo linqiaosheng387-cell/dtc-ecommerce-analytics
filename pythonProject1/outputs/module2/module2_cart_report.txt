@@ -1,0 +1,10 @@
+Module 2 cart abandonment fact table completed.
+Conversion window days: 7
+Total add_to_cart events: 11,356
+Invalid product add_to_cart events excluded: 0
+Cart attempt rows: 11,356
+Converted attempts: 2,427
+Abandoned attempts: 8,929
+Cart abandonment rate: 0.7863
+
+Main output: E:\data-analysis-two\pythonProject1\outputs\module2\cart_attempt_fact.csv

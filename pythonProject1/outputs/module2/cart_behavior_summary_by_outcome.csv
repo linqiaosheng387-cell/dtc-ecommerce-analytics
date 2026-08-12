@@ -1,0 +1,3 @@
+﻿outcome,cart_attempts,converted_attempts,abandoned_attempts,paid_conversions,avg_session_duration_min,avg_page_view_count,avg_product_view_count,checkout_after_cart_rate,payment_after_cart_rate,avg_minutes_to_abandon_proxy,avg_minutes_to_purchase,cart_abandonment_rate,cart_conversion_rate,paid_conversion_rate
+abandoned,8929,0,8929,0,4.8948967782879755,2.0150072796505767,2.025310785082316,0.29857766827192295,0.13316160824280435,1.008037480867585,,1.0,0.0,0.0
+completed,2427,2427,0,2193,9.256887790138718,2.0061804697156984,1.9785743716522455,1.0,0.9991759373712402,,5.4586595247905505,0.0,1.0,0.9035846724351051

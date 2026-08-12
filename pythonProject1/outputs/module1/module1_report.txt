@@ -1,0 +1,13 @@
+Module 1 analysis completed.
+Allocations rows: 8,340
+Summary rows: 24
+Paid channels: google, meta, tiktok
+
+Budget optimization result:
+- google: current_daily_budget=463.06, recommended_daily_budget=338.57, recommended_daily_roas=1.769
+- meta: current_daily_budget=474.82, recommended_daily_budget=471.84, recommended_daily_roas=1.716
+- tiktok: current_daily_budget=537.54, recommended_daily_budget=665.01, recommended_daily_roas=1.884
+- total current daily budget: 1475.42
+- total recommended daily budget: 1475.42
+- total current daily revenue (fitted): 2634.82
+- total recommended daily revenue (fitted): 2661.64
