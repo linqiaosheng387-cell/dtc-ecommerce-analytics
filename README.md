@@ -192,6 +192,7 @@ jupyter notebook notebooks/
 ---
 
 ## 📈 分析模块详解
+<img width="1160" height="660" alt="image" src="https://github.com/user-attachments/assets/8797f132-5bcc-460c-b5bd-f090015532f9" />
 
 ### 模块 1：广告投放效果分析
 - 多渠道 CPA、ROAS、CVR 对比
