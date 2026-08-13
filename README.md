@@ -192,16 +192,20 @@ jupyter notebook notebooks/
 ---
 
 ## 📈 分析模块详解
+- 注：具体报告在路径output/reports下哦！
+
+## 经营总览
 <img width="1160" height="660" alt="image" src="https://github.com/user-attachments/assets/8797f132-5bcc-460c-b5bd-f090015532f9" />
+<img width="683" height="516" alt="image" src="https://github.com/user-attachments/assets/88ee02f2-aa8b-42dd-9b8c-5d22d4bc5c36" />
 
 ### 模块 1：广告投放效果分析
 - 多渠道 CPA、ROAS、CVR 对比
 - 多触点归因模型（First-touch vs Last-touch vs 线性归因）
 - 预算优化建模（响应曲线拟合 + 约束优化）
+<img width="687" height="135" alt="image" src="https://github.com/user-attachments/assets/a430173e-bbac-46ab-8119-2acc304bbe8f" />
+<img width="870" height="462" alt="image" src="https://github.com/user-attachments/assets/c5a2f4ba-5f6a-4eda-901d-e0a714e73940" />
 
-**核心产出**：
-- 归因模型对比报告
-- 建议预算分配方案（Google ↑ 15%, Meta → 持平, TikTok ↓ 33%）
+
 
 ### 模块 2：用户转化漏斗与路径分析
 - 全站转化漏斗（6 步骤）
@@ -211,6 +215,7 @@ jupyter notebook notebooks/
 **核心产出**：
 - 交互式漏斗可视化
 - 购物车挽回策略建议
+<img width="1157" height="648" alt="image" src="https://github.com/user-attachments/assets/3f14b7e8-2c54-428b-9920-ec02327ce43f" />
 
 ### 模块 3：用户分群与生命周期价值（LTV）
 - RFM 用户分群（8 个细分群体）
@@ -222,6 +227,8 @@ jupyter notebook notebooks/
 - 用户分群画像报告
 - CLV 预测结果 + LTV/CAC 分析
 - 流失预警用户名单
+<img width="1193" height="661" alt="image" src="https://github.com/user-attachments/assets/c663c3ec-3dc1-40a9-bac8-2864b32f28df" />
+
 
 ### 模块 4：商品与定价策略分析
 - 产品表现矩阵（BCG 变体）
